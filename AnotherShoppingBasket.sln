@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherShoppingBasketLibrary", "AnotherShoppingBasketLibrary\AnotherShoppingBasketLibrary.csproj", "{29ACDC0A-A8B6-471F-A460-527722491D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherShoppingBasketTest", "AnotherShoppingBasketTest\AnotherShoppingBasketTest.csproj", "{AE02CB80-C494-48A0-8B6D-D448D6A96F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29ACDC0A-A8B6-471F-A460-527722491D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29ACDC0A-A8B6-471F-A460-527722491D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29ACDC0A-A8B6-471F-A460-527722491D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29ACDC0A-A8B6-471F-A460-527722491D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE02CB80-C494-48A0-8B6D-D448D6A96F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE02CB80-C494-48A0-8B6D-D448D6A96F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE02CB80-C494-48A0-8B6D-D448D6A96F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE02CB80-C494-48A0-8B6D-D448D6A96F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
